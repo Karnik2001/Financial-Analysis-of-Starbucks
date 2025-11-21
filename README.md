@@ -39,3 +39,7 @@ Algorithmic Trading Strategy using backtesting
 - XGBoost
 
 - Matplotlib / Seaborn
+
+## 🎯 Purpose
+
+The goal of this project is to apply financial analytics, machine learning, and quantitative modeling techniques to evaluate stock performance and assess predictive model effectiveness.
