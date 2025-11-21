@@ -24,7 +24,7 @@ Machine Learning Models:
 
 - XGBoost Regressor
 
-- Algorithmic Trading Strategy using backtesting
+Algorithmic Trading Strategy using backtesting
 
 ## 🛠️ Tools & Libraries
 
