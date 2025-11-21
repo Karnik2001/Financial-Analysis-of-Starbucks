@@ -28,16 +28,14 @@ Machine Learning Models:
 
 ## 🛠️ Tools & Libraries
 
-Python
+- Python
 
-Pandas, NumPy
+- Pandas, NumPy
 
-Scikit-learn
+- Scikit-learn
 
-Statsmodels
+- Statsmodels
 
-XGBoost
+- XGBoost
 
-Backtrader
-
-Matplotlib / Seaborn
+- Matplotlib / Seaborn
