@@ -43,3 +43,9 @@ Algorithmic Trading Strategy using backtesting
 ## 🎯 Purpose
 
 The goal of this project is to apply financial analytics, machine learning, and quantitative modeling techniques to evaluate stock performance and assess predictive model effectiveness.
+
+## Citations
+
+https://www.pyquantnews.com/topics/data-analysis-with-python
+
+https://blog.bytescrum.com/how-to-use-python-for-financial-analysis-and-algorithmic-trading
